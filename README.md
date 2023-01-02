@@ -7,9 +7,8 @@ Front-end Developer
 Quick learner, loves to teach, enthusiastic, self-motivated, reliable, responsible, hardworking and highly motivated.
 
 * 🌍  I'm based in Baku, Azerbaijan
-* 🖥️  See my portfolio at [CV](http://resume.io/r/y0qyDBX0i)
 * ✉️  You can contact me at [amil7.abdullayev@gmail.com](mailto:amil7.abdullayev@gmail.com)
-* 🧠  I'm learning React Native, Angular, Vue
+* 🧠  I'm learning React Native, Vue
 
 ### Skills
 
