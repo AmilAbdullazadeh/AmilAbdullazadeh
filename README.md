@@ -8,7 +8,7 @@ Quick learner, loves to teach, enthusiastic, self-motivated, reliable, responsib
 
 * 🌍  I'm based in Baku, Azerbaijan
 * ✉️  You can contact me at [amil7.abdullayev@gmail.com](mailto:amil7.abdullayev@gmail.com)
-* 🧠  I'm learning React Native, Vue
+* 🧠  I'm learning Python ML
 
 ### Skills
 
