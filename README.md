@@ -1,4 +1,4 @@
-Hi ! My name is Amil Abdullazadeh
+Hi ! My name is Amil
 =========================================================================================================================================
 
 Full-stack Web and Mobile Developer ( React, Angular, Node, TypeScript )
