@@ -1,7 +1,7 @@
 Hi ! My name is Amil
 =========================================================================================================================================
 
-Full-stack Web and Mobile Developer ( React, Angular, Node, TypeScript )
+Full-stack Web and Mobile Developer ( TypeScript, React, Angular, Node, Python)
 -------------------
 
 Quick learner, loves to teach, enthusiastic, self-motivated, reliable, responsible, hardworking and highly motivated.
